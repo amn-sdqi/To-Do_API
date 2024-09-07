@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "66d8a4cd290536aedab26a7a"
+  },
+  "text": "To Learn MongoDB heheheh",
+  "createdAt": {
+    "$date": "2024-09-04T18:19:57.386Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-04T18:19:57.386Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d8a4e4290536aedab26a7c"
+  },
+  "text": "Making mistakes",
+  "createdAt": {
+    "$date": "2024-09-04T18:20:20.461Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-04T18:20:20.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d8a4fa290536aedab26a7e"
+  },
+  "text": "Wipe your ass cuz they bleeding",
+  "createdAt": {
+    "$date": "2024-09-04T18:20:42.037Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-04T18:20:42.037Z"
+  },
+  "__v": 0
+}]
